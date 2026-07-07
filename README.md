@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/HackHero433/Leetcode-cpp/tree/master/0068-text-justification) |
+| [0125-valid-palindrome](https://github.com/HackHero433/Leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
 ## Greedy
 |  |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/HackHero433/Leetcode-cpp/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
