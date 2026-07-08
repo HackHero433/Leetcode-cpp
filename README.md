@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HackHero433/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/HackHero433/Leetcode-cpp/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/HackHero433/Leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HackHero433/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/HackHero433/Leetcode-cpp/tree/master/0125-valid-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HackHero433/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
