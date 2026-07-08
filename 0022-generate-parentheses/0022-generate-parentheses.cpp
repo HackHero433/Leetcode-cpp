@@ -1,0 +1,30 @@
+class Solution {
+public:
+    vector<string> res;
+
+    void solve(int open, int close, int n, string &temp) {
+
+        if (open == n && close == n) {
+            res.push_back(temp);
+            return;
+        }
+
+        if (open < n) {
+            temp.push_back('(');
+            solve(open + 1, close, n, temp);
+            temp.pop_back();
+        }
+
+        if (close < open) {
+            temp.push_back(')');
+            solve(open, close + 1, n, temp);
+            temp.pop_back();
+        }
+    }
+
+    vector<string> generateParenthesis(int n) {
+        string temp = "";
+        solve(0, 0, n, temp);
+        return res;
+    }
+};
