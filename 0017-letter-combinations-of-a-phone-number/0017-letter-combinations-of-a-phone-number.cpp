@@ -40,7 +40,8 @@ public:
 
         string temp = "";
         int n = digits.size();
-        helper(digits, n, 0, temp, res);
+        int idx = 0;
+        helper(digits, n,idx, temp, res);
 
         return res;
     }
