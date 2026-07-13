@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HackHero433/Leetcode-cpp/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
@@ -110,5 +111,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HackHero433/Leetcode-cpp/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/HackHero433/Leetcode-cpp/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
