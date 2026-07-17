@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HackHero433/Leetcode-cpp/tree/master/0022-generate-parentheses) |
+| [0338-counting-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -117,5 +118,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/HackHero433/Leetcode-cpp/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HackHero433/Leetcode-cpp/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
