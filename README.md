@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/HackHero433/Leetcode-cpp/tree/master/0502-ipo) |
 | [1331-rank-transform-of-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Simulation
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/HackHero433/Leetcode-cpp/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/HackHero433/Leetcode-cpp/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0509-fibonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HackHero433/Leetcode-cpp/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Dynamic Programming
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HackHero433/Leetcode-cpp/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/HackHero433/Leetcode-cpp/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
