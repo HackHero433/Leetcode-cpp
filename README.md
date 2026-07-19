@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/HackHero433/Leetcode-cpp/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/HackHero433/Leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/HackHero433/Leetcode-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/HackHero433/Leetcode-cpp/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/HackHero433/Leetcode-cpp/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/HackHero433/Leetcode-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/HackHero433/Leetcode-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/HackHero433/Leetcode-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
