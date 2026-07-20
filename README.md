@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/HackHero433/Leetcode-cpp/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/HackHero433/Leetcode-cpp/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0137-single-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/HackHero433/Leetcode-cpp/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/HackHero433/Leetcode-cpp/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/HackHero433/Leetcode-cpp/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/HackHero433/Leetcode-cpp/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/HackHero433/Leetcode-cpp/tree/master/0509-fibonacci-number) |
 ## Recursion
