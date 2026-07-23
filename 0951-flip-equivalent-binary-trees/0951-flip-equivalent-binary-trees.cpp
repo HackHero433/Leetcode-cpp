@@ -15,10 +15,15 @@ public:
             flipEquiv(p->left, q->left) &&
             flipEquiv(p->right, q->right);
 
+           
         bool flip =
             flipEquiv(p->left, q->right) &&
             flipEquiv(p->right, q->left);
 
-        return noFlip || flip;
+          if(noFlip==true || flip==true)
+          return true;
+          else
+          return false;
+
     }
 };
