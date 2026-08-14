@@ -4,20 +4,19 @@ public:
         int n = s.length();
         int ans = 0;
 
-        unordered_map<char, int> mp;
+        for (int i = 0; i < n; i++) {
 
-        int left = 0;
+            unordered_map<char, int> mp;
 
-        for (int right = 0; right < n; right++) {
+            for (int j = i; j < n; j++) {
 
-            mp[s[right]]++;
+                mp[s[j]]++;
 
-            while (mp[s[right]] > 2) {
-                mp[s[left]]--;
-                left++;
+                if (mp[s[j]] > 2)
+                   break;
+
+                ans = max(ans, j - i + 1);
             }
-
-            ans = max(ans, right - left + 1);
         }
 
         return ans;
