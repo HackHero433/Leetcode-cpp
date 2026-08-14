@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/HackHero433/Leetcode-cpp/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
 | [1331-rank-transform-of-an-array](https://github.com/HackHero433/Leetcode-cpp/tree/master/1331-rank-transform-of-an-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HackHero433/Leetcode-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/HackHero433/Leetcode-cpp/tree/master/0125-valid-palindrome) |
 | [0767-reorganize-string](https://github.com/HackHero433/Leetcode-cpp/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HackHero433/Leetcode-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HackHero433/Leetcode-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
@@ -226,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HackHero433/Leetcode-cpp/tree/master/0700-search-in-a-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/HackHero433/Leetcode-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
